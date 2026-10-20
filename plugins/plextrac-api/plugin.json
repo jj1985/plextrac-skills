@@ -1,0 +1,25 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "plextrac-api",
+  "version": "1.0.0",
+  "description": "Skill for the PlexTrac penetration-testing and reporting platform API: REST v1/v2/v3 routes (clients, reports, findings, assets, writeups, narratives, assessments, scheduler, users, RBAC, integrations), the Runbooks GraphQL endpoint and outbound webhooks. Includes an OpenAPI 3.1 spec generated from the official Postman collection, a GraphQL operation catalog, object-shape and pagination references, the deprecation log, and a dependency-free Python client with the streaming scanner-import flow.",
+  "author": {
+    "name": "jj1985",
+    "url": "https://github.com/jj1985"
+  },
+  "homepage": "https://github.com/jj1985/plextrac-skills",
+  "repository": "https://github.com/jj1985/plextrac-skills",
+  "license": "MIT",
+  "keywords": [
+    "plextrac",
+    "pentest",
+    "penetration-testing",
+    "findings",
+    "reports",
+    "vulnerability-management",
+    "rest-api",
+    "graphql",
+    "openapi",
+    "webhooks"
+  ]
+}
